@@ -1,0 +1,11 @@
+{
+	"name": "Tagup",
+	"description": "Tagup is an online platform that monitors diverse equipment around the\n world. Tagup's mission is to predict equipment downtime and failures\n before they occur.",
+	"logo": "https://www.binarcode.com/img/projects/tagup/logo.png",
+	"background": "https://www.binarcode.com/img/projects/tagup/cover.png",
+	"projectScreenshot": "https://www.binarcode.com/img/projects/tagup/1.png",
+	"people": "3 people",
+	"time": "1+ years",
+	"services": ["front-end", "back-end", "testing", "support"],
+	"technologies": []
+}
