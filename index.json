@@ -1,11 +1,27 @@
-{
-	"name": "Tagup",
-	"description": "Tagup is an online platform that monitors diverse equipment around the\n world. Tagup's mission is to predict equipment downtime and failures\n before they occur.",
-	"logo": "https://www.binarcode.com/img/projects/tagup/logo.png",
-	"background": "https://www.binarcode.com/img/projects/tagup/cover.png",
-	"projectScreenshot": "https://www.binarcode.com/img/projects/tagup/1.png",
-	"people": "3 people",
-	"time": "1+ years",
-	"services": ["front-end", "back-end", "testing", "support"],
-	"technologies": []
-}
+[{
+	"tagup": {
+		"name": "Tagup",
+		"description": "Tagup is an online platform that monitors diverse equipment around the\n world.Tagup 's mission is to predict equipment downtime and failures\n before they occur.",
+		"logo": "https://www.binarcode.com/img/projects/tagup/logo.png",
+		"background": "https://www.binarcode.com/img/projects/tagup/cover.png",
+		"projectScreenshot": "https://www.binarcode.com/img/projects/tagup/1.png",
+		"people": "3 people",
+		"time": "1+ years",
+		"services": ["front-end", "back-end", "testing", "support"],
+		"technologies": [{
+			"name": "Node.js",
+			"description": "Node.js is an open-source, cross-platform JavaScript run-time\n environment that executes JavaScript code outside of a\n browser."
+		}, {
+			"name": "MongoDB",
+			"description": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program"
+		}, {
+			"name": "Vue",
+			"description": "The Progressive JavaScript Framework. Vue.js is Approachable,\n Versatile, Performant and has a low learning curve which makes it\n perfect for almost any project."
+		}, {
+			"name": "Vuepress",
+			"description": "Vuepress is a static site generator with focus towards\n documentations. Vuepress is Vue powered, simple and very performant\n which makes it perfect for documentations."
+		}],
+		"Challenge": ["Tagup is an online platform that monitors diverse equipment around\n the world. Tagup's mission is to predict equipment downtime and\n failures before they occur."],
+		"results": ["Within a few clicks, engineers can see live equipment data and\n predictions in a fast, responsive web application. The web\n application is now used by engineers &amp; teams from various\n companies around the world.", "The platform handles live data from sensors, user organizations,\n asset management &amp; historical asset data.", "              Our collaboration with Tagup is almost at 1 year anniversary and\n ongoing"]
+	}
+}]
