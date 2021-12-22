@@ -83,9 +83,9 @@
         "description": "Django is a web application framework for Python. It is designed to prioritize principles of reusability and rapid development."
       },
       {
-        "name": "Python",
-        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png",
-        "description": "Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research."
+        "name": "PostgreSQL",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png",
+        "description": "PostgreSQL is a database management system that is object-relational. PostgreSQL originated from the Ingres project at the University of California, Berkeley."
       }
     ],
     "challenge": [
@@ -185,9 +185,9 @@
         "description": "PHP is a popular general-purpose scripting language that's particularly suited for server-side web development. PHP runtime is generally executed by webpage content, and can be added to HTML and HTML5 webpages. PHP was originally developed in 1994 by Rasmus Lerdorf."
       },
       {
-        "name": "PostgreSQL",
-        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png",
-        "description": "PostgreSQL is a database management system that is object-relational. PostgreSQL originated from the Ingres project at the University of California, Berkeley."
+        "name": "Python",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png",
+        "description": "Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research."
       }
     ],
     "challenge": [
