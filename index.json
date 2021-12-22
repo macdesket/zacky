@@ -5,7 +5,7 @@
     "color": "to bottom,#142256,#0d1945",
     "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
     "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
-    "logo": "https://i.imgur.com/JXCF71h.jpg",
+    "logo": "https://i.imgur.com/qE9122T.png",
     "background": "https://i.imgur.com/5kTHy6T.jpg",
     "screenshot": {
       "projectScreenshot": "https://i.imgur.com/16sllw8.png",
@@ -13,8 +13,8 @@
       "challengeScreenshot": "https://i.imgur.com/2O9gxs9.png"
     },
     "people": "2 people",
-    "time": "1+ years",
-    "services": ["support"],
+    "time": "7 months",
+    "services": ["testing", "support"],
     "technologies": [
       {
         "name": "React",
@@ -51,54 +51,156 @@
     ]
   },
   {
-    "name": "Tagup",
-    "type": "SaaS",
+    "name": "allstacks",
+    "type": "Sass",
     "color": "to bottom,#142256,#0d1945",
-    "description": "Tagup is an online platform that monitors diverse equipment around the\n world.Tagup 's mission is to predict equipment downtime and failures\n before they occur.",
+    "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
     "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
-    "logo": "https://www.binarcode.com/img/projects/tagup/logo.png",
-    "background": "https://www.binarcode.com/img/projects/tagup/cover.png",
+    "logo": "https://i.imgur.com/loqOY0J.png",
+    "background": "https://i.imgur.com/jDsiENC.jpg",
     "screenshot": {
-      "projectScreenshot": "https://www.binarcode.com/img/projects/tagup/1.png",
-      "resultScreenshot": "https://www.binarcode.com/img/projects/tagup/1.png",
-      "challengeScreenshot": "https://www.binarcode.com/img/projects/tagup/2.png"
+      "projectScreenshot": "https://i.imgur.com/OxgpXhv.png",
+      "resultScreenshot": "https://i.imgur.com/M2bjk50.png",
+      "challengeScreenshot": "https://i.imgur.com/Hp9DAGW.png"
     },
     "people": "3 people",
-    "time": "1+ years",
-    "services": ["front-end", "back-end", "testing", "support"],
+    "time": "5 months",
+    "services": ["design","frontend","testing"],
     "technologies": [
       {
-        "name": "Node.js",
-        "image": "https://www.binarcode.com/img/technologies/nodejs.png",
-        "description": "Node.js is an open-source, cross-platform JavaScript run-time\n environment that executes JavaScript code outside of a\n browser."
+        "name": "Vue.js",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png",
+        "description": "Vue is a JavaScript framework for building websites. The intent of Vue is to make the integration of other JavaScript libraries easy. It is designed to organize and simplify web development."
       },
       {
-        "name": "MongoDB",
-        "image": "https://www.binarcode.com/img/technologies/mongodb_icon.jpg",
-        "description": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program"
+        "name": "Python",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png",
+        "description": "Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research."
       },
       {
-        "name": "Vue",
-        "image": "https://www.binarcode.com/img/technologies/vue.svg",
-        "description": "The Progressive JavaScript Framework. Vue.js is Approachable,\n Versatile, Performant and has a low learning curve which makes it\n perfect for almost any project."
+        "name": "Django",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png",
+        "description": "Django is a web application framework for Python. It is designed to prioritize principles of reusability and rapid development."
       },
       {
-        "name": "Vuepress",
-        "image": "https://www.binarcode.com/img/technologies/vuepress.png",
-        "description": "Vuepress is a static site generator with focus towards\n documentations. Vuepress is Vue powered, simple and very performant\n which makes it perfect for documentations."
+        "name": "Python",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png",
+        "description": "Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research."
       }
     ],
     "challenge": [
-      "Tagup is an online platform that monitors diverse equipment around\n the world. Tagup's mission is to predict equipment downtime and\n failures before they occur.",
-      "Develop a fast & responsive Single Page App in Vue.js as well as support the development of the existing backend in Node.js",
-      "Time and budget were limited initially until the first MVP launch",
+      "allstacks is an online Project Management that Work backwards from the customer\n and Think from the customer’s perspective.",
+      "Develop a fast & responsive Single Page App in React as well as support the development of the existing backend in Python",
+      "Provide support in throught the way",
       "The web application and the backend had to be well tested and stable"
     ],
-    "result": "Within a few clicks, engineers can see live equipment data and predictions in a fast, responsive web application. The web application is now used by engineers & teams from various companies around the world.",
+    "result": "Within a few clicks, project manganers can monitors and executes decision in no Time",
     "results": [
-      "Within a few clicks, engineers can see live equipment data and\n predictions in a fast, responsive web application. The web\n application is now used by engineers &amp; teams from various\n companies around the world.",
-      "The platform handles live data from sensors, user organizations,\n asset management &amp; historical asset data.",
-      "Our collaboration with Tagup is almost at 1 year anniversary and\n ongoing"
+      "It helps formed decisions lead to better and faster results",
+      "The platform provides Delivery of products to customers and celebrate there success as they create it.",
+      "Our collaboration with Spiral is almost at 1 year anniversary and\n ongoing"
+    ]
+  },
+  {
+    "name": "hourstack",
+    "type": "Time Tracking",
+    "color": "to bottom,#142256,#0d1945",
+    "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
+    "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
+    "logo": "https://i.imgur.com/iDxTnaC.png",
+    "background": "https://i.imgur.com/dT6MzO1.jpg",
+    "screenshot": {
+      "projectScreenshot": "https://i.imgur.com/uUvI3NK.png",
+      "resultScreenshot": "https://i.imgur.com/12sN25u.png",
+      "challengeScreenshot": "https://i.imgur.com/LPLJfp1.png"
+    },
+    "people": "3 people",
+    "time": "5 months",
+    "services": ["frontend","backend","testing","support"],
+    "technologies": [
+      {
+        "name": "React",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png",
+        "description": "React (also known as React.js or ReactJS) is a JavaScript library that makes developing interactive user interfaces simple."
+      },
+      {
+        "name": "Node.js",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png",
+        "description": "Node.js is a tool for executing JavaScript in a variety of environments. JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world."
+      },
+      {
+        "name": "PHP",
+        "image": "https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png",
+        "description": "PHP is a popular general-purpose scripting language that's particularly suited for server-side web development. PHP runtime is generally executed by webpage content, and can be added to HTML and HTML5 webpages. PHP was originally developed in 1994 by Rasmus Lerdorf."
+      },
+      {
+        "name": "MySQL",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png",
+        "description": "MySQL is an open source relational database management system. Based in Structured Query Language (SQL), MySQL can run on most platforms and is mainly used for web-based applications. It is written in C and C++."
+      }
+    ],
+    "challenge": [
+      "allstacks is an online Project Management that Work backwards from the customer\n and Think from the customer’s perspective.",
+      "Develop a fast & responsive Single Page App in React as well as support the development of the existing backend in Python",
+      "Provide support in throught the way",
+      "The web application and the backend had to be well tested and stable"
+    ],
+    "result": "Within a few clicks, project manganers can monitors and executes decision in no Time",
+    "results": [
+      "It helps formed decisions lead to better and faster results",
+      "The platform provides Delivery of products to customers and celebrate there success as they create it.",
+      "Our collaboration with Spiral is almost at 1 year anniversary and\n ongoing"
+    ]
+  },
+  {
+    "name": "billflow",
+    "type": "billing",
+    "color": "to bottom,#142256,#0d1945",
+    "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
+    "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
+    "logo": "https://i.imgur.com/CHJmjSo.png",
+    "background": "https://i.imgur.com/lqCBVRX.jpg",
+    "screenshot": {
+      "projectScreenshot": "https://i.imgur.com/YuRH8kQ.png",
+      "resultScreenshot": "https://i.imgur.com/CJCF0ZL.png",
+      "challengeScreenshot": "https://i.imgur.com/dyuQqvl.png"
+    },
+    "people": "3 people",
+    "time": "5 months",
+    "services": ["design","frontend","testing"],
+    "technologies": [
+      {
+        "name": "React",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png",
+        "description": "React (also known as React.js or ReactJS) is a JavaScript library that makes developing interactive user interfaces simple."
+      },
+      {
+        "name": "Node.js",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png",
+        "description": "Node.js is a tool for executing JavaScript in a variety of environments. JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world."
+      },
+      {
+        "name": "PHP",
+        "image": "https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png",
+        "description": "PHP is a popular general-purpose scripting language that's particularly suited for server-side web development. PHP runtime is generally executed by webpage content, and can be added to HTML and HTML5 webpages. PHP was originally developed in 1994 by Rasmus Lerdorf."
+      },
+      {
+        "name": "PostgreSQL",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png",
+        "description": "PostgreSQL is a database management system that is object-relational. PostgreSQL originated from the Ingres project at the University of California, Berkeley."
+      }
+    ],
+    "challenge": [
+      "allstacks is an online Project Management that Work backwards from the customer\n and Think from the customer’s perspective.",
+      "Develop a fast & responsive Single Page App in React as well as support the development of the existing backend in Python",
+      "Provide support in throught the way",
+      "The web application and the backend had to be well tested and stable"
+    ],
+    "result": "Within a few clicks, project manganers can monitors and executes decision in no Time",
+    "results": [
+      "It helps formed decisions lead to better and faster results",
+      "The platform provides Delivery of products to customers and celebrate there success as they create it.",
+      "Our collaboration with Spiral is almost at 1 year anniversary and\n ongoing"
     ]
   }
 ]
