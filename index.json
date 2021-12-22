@@ -1,16 +1,67 @@
 [
   {
+    "name": "Spiral",
+    "type": "Project Management",
+    "color": "to bottom,#142256,#0d1945",
+    "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
+    "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
+    "logo": "https://i.imgur.com/JXCF71h.jpg",
+    "background": "https://i.imgur.com/5kTHy6T.jpg",
+    "screenshot": {
+      "projectScreenshot": "https://i.imgur.com/5kTHy6T.jpg",
+      "resultScreenshot": "https://i.imgur.com/YKIrH1l.png",
+      "challengeScreenshot": "https://i.imgur.com/16sllw8.png"
+    },
+    "people": "2 people",
+    "time": "1+ years",
+    "services": ["support"],
+    "technologies": [
+      {
+        "name": "React",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png",
+        "description": "React (also known as React.js or ReactJS) is a JavaScript library that makes developing interactive user interfaces simple."
+      },
+      {
+        "name": "Python",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png",
+        "description": "Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research."
+      },
+      {
+        "name": "GraphQL",
+        "image": "https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png",
+        "description": "GraphQL is a data query language developed by Facebook. It provides an alternative to REST and ad-hoc webservice architectures. It allows clients to define the structure of the data required, and exactly the same structure of the data is returned from the server. It is a strongly typed runtime which allows clients to dictate what data is needed."
+      },
+      {
+        "name": "TypeScript",
+        "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png",
+        "description": "TypeScript is an open source programming language developed by Microsoft and first released in 2012. It is designed to add type safety to JavaScript while conforming as closely as possible to the syntax and semantics of the ECMAScript standard."
+      }
+    ],
+    "challenge": [
+      "Spiral is an online Project Management that Work backwards from the customer\n and Think from the customer’s perspective.",
+      "Develop a fast & responsive Single Page App in React as well as support the development of the existing backend in Python",
+      "Provide support in throught the way",
+      "The web application and the backend had to be well tested and stable"
+    ],
+    "result": "Within a few clicks, project manganers can monitors and executes decision in no Time",
+    "results": [
+      "It helps formed decisions lead to better and faster results",
+      "The platform provides Delivery of products to customers and celebrate there success as they create it.",
+      "Our collaboration with Spiral is almost at 1 year anniversary and\n ongoing"
+    ]
+  },
+  {
     "name": "Tagup",
-    "type":"SaaS",
-    "color":"to bottom,#142256,#0d1945",
+    "type": "SaaS",
+    "color": "to bottom,#142256,#0d1945",
     "description": "Tagup is an online platform that monitors diverse equipment around the\n world.Tagup 's mission is to predict equipment downtime and failures\n before they occur.",
-    "mainImage":"https://www.binarcode.com/img/projects/tagup/tagup.png",
+    "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
     "logo": "https://www.binarcode.com/img/projects/tagup/logo.png",
     "background": "https://www.binarcode.com/img/projects/tagup/cover.png",
-    "screenshot":{
+    "screenshot": {
       "projectScreenshot": "https://www.binarcode.com/img/projects/tagup/1.png",
-      "resultScreenshot":"https://www.binarcode.com/img/projects/tagup/1.png",
-      "challengeScreenshot":"https://www.binarcode.com/img/projects/tagup/2.png"
+      "resultScreenshot": "https://www.binarcode.com/img/projects/tagup/1.png",
+      "challengeScreenshot": "https://www.binarcode.com/img/projects/tagup/2.png"
     },
     "people": "3 people",
     "time": "1+ years",
