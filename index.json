@@ -2,9 +2,9 @@
   {
     "name": "Spiral",
     "type": "Project Management",
-    "color": "to bottom,#142256,#0d1945",
+    "color": "to bottom,#769ad0,#eeeef6",
     "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
-    "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
+    "mainImage": "https://i.imgur.com/7AZ8axa.jpg",
     "logo": "https://i.imgur.com/qE9122T.png",
     "background": "https://i.imgur.com/5kTHy6T.jpg",
     "screenshot": {
@@ -53,9 +53,9 @@
   {
     "name": "allstacks",
     "type": "Sass",
-    "color": "to bottom,#142256,#0d1945",
-    "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
-    "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
+    "color": "to bottom,#ec459c,#762aed",
+    "description": "Allstacks gives software organizations clear visibility into project status, team performance, and trends so you can eliminate surprises in software delivery.",
+    "mainImage": "https://i.imgur.com/gHaqHfP.jpg",
     "logo": "https://i.imgur.com/loqOY0J.png",
     "background": "https://i.imgur.com/jDsiENC.jpg",
     "screenshot": {
@@ -98,15 +98,15 @@
     "results": [
       "It helps formed decisions lead to better and faster results",
       "The platform provides Delivery of products to customers and celebrate there success as they create it.",
-      "Our collaboration with Spiral is almost at 1 year anniversary and\n ongoing"
+      "Our collaboration with allstacks is almost at 1 year anniversary and\n ongoing"
     ]
   },
   {
     "name": "hourstack",
     "type": "Time Tracking",
-    "color": "to bottom,#142256,#0d1945",
-    "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
-    "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
+    "color": "to bottom,#f2f7ff,#4163df",
+    "description": "HourStack is the time tracking and scheduling tool which is Designed for teams of all sizes that care about tracking time across the applications they already use, but flexible enough to use as a stand-alone tool.",
+    "mainImage": "https://i.imgur.com/dl4l0fG.jpg",
     "logo": "https://i.imgur.com/iDxTnaC.png",
     "background": "https://i.imgur.com/dT6MzO1.jpg",
     "screenshot": {
@@ -149,21 +149,21 @@
     "results": [
       "It helps formed decisions lead to better and faster results",
       "The platform provides Delivery of products to customers and celebrate there success as they create it.",
-      "Our collaboration with Spiral is almost at 1 year anniversary and\n ongoing"
+      "Our collaboration with hourstack is almost at 1 year anniversary and\n ongoing"
     ]
   },
   {
     "name": "billflow",
     "type": "billing",
-    "color": "to bottom,#142256,#0d1945",
-    "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
-    "mainImage": "https://www.binarcode.com/img/projects/tagup/tagup.png",
+    "color": "to bottom,#c300f4,#ab00ff",
+    "description": "billflow is a lightweight front-end layer on top of Stripe Billing, allowing you to continue using the power of  Stripe APIs & docs for advanced use.",
+    "mainImage": "https://i.imgur.com/zWnEVLd.jpg",
     "logo": "https://i.imgur.com/CHJmjSo.png",
     "background": "https://i.imgur.com/lqCBVRX.jpg",
     "screenshot": {
       "projectScreenshot": "https://i.imgur.com/YuRH8kQ.png",
       "resultScreenshot": "https://i.imgur.com/CJCF0ZL.png",
-      "challengeScreenshot": "https://i.imgur.com/CJCF0ZL.png"
+      "challengeScreenshot": "https://i.imgur.com/dyuQqvl.png"
     },
     "people": "3 people",
     "time": "5 months",
@@ -200,7 +200,7 @@
     "results": [
       "It helps formed decisions lead to better and faster results",
       "The platform provides Delivery of products to customers and celebrate there success as they create it.",
-      "Our collaboration with Spiral is almost at 1 year anniversary and\n ongoing"
+      "Our collaboration with billflow is almost at 1 year anniversary and\n ongoing"
     ]
   }
 ]
