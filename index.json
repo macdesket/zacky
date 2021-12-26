@@ -2,7 +2,7 @@
   {
     "name": "Spiral",
     "type": "Project Management",
-    "color": "to bottom,#769ad0,#eeeef6",
+    "color": "to bottom,#FD7F6D,#F09597",
     "description": "Spiral scans customer support data like emails and online chats and detects emerging problems before they escalate.",
     "mainImage": "https://i.imgur.com/7AZ8axa.jpg",
     "logo": "https://i.imgur.com/qE9122T.png",
@@ -53,7 +53,7 @@
   {
     "name": "allstacks",
     "type": "Sass",
-    "color": "to bottom,#ec459c,#762aed",
+    "color": "to bottom,#ec459c,#FF5D81",
     "description": "Allstacks gives software organizations clear visibility into project status, team performance, and trends so you can eliminate surprises in software delivery.",
     "mainImage": "https://i.imgur.com/gHaqHfP.jpg",
     "logo": "https://i.imgur.com/loqOY0J.png",
@@ -104,7 +104,7 @@
   {
     "name": "hourstack",
     "type": "Time Tracking",
-    "color": "to bottom,#f2f7ff,#4163df",
+    "color": "to bottom,#E3F0FF,#333F5A",
     "description": "HourStack is the time tracking and scheduling tool which is Designed for teams of all sizes that care about tracking time across the applications they already use, but flexible enough to use as a stand-alone tool.",
     "mainImage": "https://i.imgur.com/dl4l0fG.jpg",
     "logo": "https://i.imgur.com/iDxTnaC.png",
@@ -155,7 +155,7 @@
   {
     "name": "billflow",
     "type": "billing",
-    "color": "to bottom,#c300f4,#ab00ff",
+    "color": "to bottom,#745ED5,#4163df",
     "description": "billflow is a lightweight front-end layer on top of Stripe Billing, allowing you to continue using the power of  Stripe APIs & docs for advanced use.",
     "mainImage": "https://i.imgur.com/zWnEVLd.jpg",
     "logo": "https://i.imgur.com/CHJmjSo.png",
@@ -204,3 +204,4 @@
     ]
   }
 ]
+
