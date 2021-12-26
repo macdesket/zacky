@@ -104,10 +104,10 @@
   {
     "name": "hourstack",
     "type": "Time Tracking",
-    "color": "to bottom,#E3F0FF,#333F5A",
+    "color": "to bottom,#0E1538,#3E3F67",
     "description": "HourStack is the time tracking and scheduling tool which is Designed for teams of all sizes that care about tracking time across the applications they already use, but flexible enough to use as a stand-alone tool.",
     "mainImage": "https://i.imgur.com/dl4l0fG.jpg",
-    "logo": "https://i.imgur.com/iDxTnaC.png",
+    "logo": "https://i.imgur.com/8EQLgRB.png",
     "background": "https://i.imgur.com/dT6MzO1.jpg",
     "screenshot": {
       "projectScreenshot": "https://i.imgur.com/uUvI3NK.png",
@@ -204,4 +204,3 @@
     ]
   }
 ]
-
